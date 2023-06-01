@@ -30,3 +30,4 @@ volumes:
   postgresql_data:
     driver: local
   sonarqube_data:
+    driver: local
